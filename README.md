@@ -53,13 +53,13 @@
 
 ###
 <p align="left">Tutorial dla Minecrafta w wersji Premium.</p> 
-<img src="Tutorial/Minecraft Tutorial/1.png" alt="Paczki" width="1230" height="513">
+<img src="Tutorial/Minecraft Tutorial/1.png" alt="Paczki" width="1630" height="513">
 <p align="left">Odpalamy launcher minecraft i kilkamy w zakładce "Instalacje".</p> 
-<img src="Tutorial/Minecraft Tutorial/2.png" alt="Paczki" width="1230" height="513">
+<img src="Tutorial/Minecraft Tutorial/2.png" alt="Paczki" width="1630" height="513">
 <p align="left">Klikamy "Nowa Instalacja".</p>
-<img src="Tutorial/Minecraft Tutorial/3.png" alt="Paczki" width="1230" height="513">
+<img src="Tutorial/Minecraft Tutorial/3.png" alt="Paczki" width="1630" height="513">
 <p align="left">W zakładce "wersja" szukamy "release 1.21.1" i klikamy zainstaluj. Wszystko inne zostawiamy jak jest</p>
-<img src="Tutorial/Minecraft Tutorial/4.png" alt="Paczki" width="1230" height="513">
+<img src="Tutorial/Minecraft Tutorial/4.png" alt="Paczki" width="1630" height="513">
 <p align="left">Sprawdzamy czy w rogu jest poprawna wersja, jeśli tak kilkamy "Graj".</p>
 <p align="left">Podczas pierwszego uruchomienia instalowanę są niezbędnę pliki który będą potrzebne przy instalowaniu modów i fabrica. Nie musicie tworzyć nowego świata, jak widzicie menu główne Minecraft to wszystko powinno wam się ładnie zainstalować.</p>
 
@@ -73,7 +73,7 @@
 <img src="Tutorial/Mods Folder/1.png" alt="Mods" width="415" height="213">
 <p align="left">Szybki dostęp do Appdata mamy wciskając kombinację przycisków "Windows + R", następnie wpisujemy "%appdata%" i klikamy enter.</p>  
 <img src="Tutorial/Mods Folder/5.png" alt="Mods" width="776" height="622">
-<p align="left">Kolejnym sposobem jest wyszukanie w lupce "%appdata" i również wpisujemy enter.</p>
+<p align="left">Kolejnym sposobem jest wyszukanie w lupce "%appdata%" i również wpisujemy enter.</p>
 <img src="Tutorial/Mods Folder/6.png" alt="Mods" width="897" height="105">
 <p align="left">Jeszcze jednym sposobem jest włączenie jakiegokolwiek folderu, w ścieżce folderu zastępujemy go "%appdata%" i klikamy enter.</p>  
 <p align="left">i wchodzimy kolejno w ".minecraft" ---> "mods" (jeśli nie ma tworzymy folder o nazwie "mods") Na razie zostawiamy fen folder w spokoju</p>  
@@ -103,10 +103,10 @@
 <img src="Tutorial/Fabric/1.png" alt="Fabric" width="493" height="260">
 <p align="left">Ustawiamy wersję gry na 1.21.1 oraz lokalizację instalacji na folder .minecraft którego znaleźliśmy w punkcie 4.</p>
 <p align="left">W crystal launcherze to wszystko co musimy zrobić, klikamy "graj" sprawdzając czy nam wszystko działa.</p>
-<img src="Tutorial/Fabric/2.png" alt="Paczki" width="1230" height="513">
+<img src="Tutorial/Fabric/2.png" alt="Paczki" width="1630" height="513">
 <p align="left">W wersji premium po zainstalowaniu znowu wchodzimy w launcher i wybieramy na dole po lewej stronie to co widoczne na screenie. I klikamy "graj" Jeżeli wszystko działa wyłączamy znowy gre.</p>
-<p align="left">(MOŻE SIE TAK WYDARZYĆ ŻE NIE MA PO LEWEJ STRONIE W ROZWIJANEJ LIŚCIE FABRIC LOADER WTEDY MUSIMY W INSTALACJI UTWORZYĆ NOWĄ INSTALACJE I Z ROZWIJANEJ LISTY WYBRAĆ "realease fabric-loader-cośtamcośtam" I ZANSTALOWAĆ)</p>
-<img src="Tutorial/Fabric/3.png" alt="Paczki" width="1230" height="513">
+<p align="left">(MOŻE SIE TAK WYDARZYĆ ŻE NIE MA PO LEWEJ STRONIE W ROZWIJANEJ LIŚCIE FABRIC LOADER WTEDY MUSIMY W INSTALACJI UTWORZYĆ NOWĄ INSTALACJE I Z ROZWIJANEJ LISTY WYBRAĆ "realease fabric-loader-cośtamcośtam" I ZAINSTALOWAĆ)</p>
+<img src="Tutorial/Fabric/3.png" alt="Paczki" width="1630" height="513">
 
 
 
