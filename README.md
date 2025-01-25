@@ -52,5 +52,40 @@
 <h3 align="left">3.2 Wersja Premium</h3>
 
 ###
+<p align="left">Tutorial dla Minecrafta w wersji Premium.</p> 
+<imp scr="Tutorial/Minecraft Tutorial/1.png" alt="Minecraft" width="865" height="515">
+<p align="left">Odpalamy launcher minecraft i kilkamy w zakładce "Instalacje".</p> 
+<imp scr="Tutorial/Minecraft Tutorial/2.png" alt="Minecraft" width="865" height="515">
+<p align="left">Klikamy "Nowa Instalacja".</p>
+<imp scr="Tutorial/Minecraft Tutorial/3.png" alt="Minecraft" width="865" height="515">
+<p align="left">W zakładce "wersja" szukamy "release 1.21.1" i klikamy zainstaluj. Wszystko inne zostawiamy jak jest</p>
+<imp scr="Tutorial/Minecraft Tutorial/4.png" alt="Minecraft" width="865" height="515">
+<p align="left">Sprawdzamy czy w rogu jest poprawna wersja, jeśli tak kilkamy "Graj".</p>
+<p align="left">Podczas pierwszego uruchomienia instalowanę są niezbędnę pliki który będą potrzebne przy instalowaniu modów i fabrica. Nie musicie tworzyć nowego świata, jak widzicie menu główne Minecraft to wszystko powinno wam się ładnie zainstalować.</p>
 
-<p align="left">Wiktoria powiedziała że ustawianie tego jest o wiele łatwiejsze na wersji premium. Pamiętajcię żeby ustawić wersję minecrafta na 1.21.1 i uruchomić grę aż do menu głównego.
+###
+
+<h3 align="left">4. Folder Mods</h3>
+
+###
+
+<p align="left">Wchodzimy w folder "Appdata - Roaming".</p>  
+<imp scr="Tutorial/Mods Folder/1.png" alt="Mods" width="865" height="515">
+<p align="left">Szybki dostęp do Appdata mamy wciskając kombinację przycisków "Windows + R", następnie wpisujemy "%appdata%" i klikamy enter.</p>  
+<p align="left">Kolejnym sposobem jest wyszukanie w lupce "%appdata" i również wpisujemy enter.</p>
+<p align="left">Jeszcze jednym sposobem jest włączenie jakiegokolwiek folderu, w ścieżce folderu zastępujemy go "%appdata%" i klikamy enter.</p>  
+<p align="left">i wchodzimy kolejno w ".minecraft" ---> "mods" (jeśli nie ma tworzymy folder o nazwie "mods") Na razie zostawiamy fen folder w spokoju</p>  
+
+###
+
+<h3 align="left">4. Folder Mods dla Crystal Launchera</h3>
+
+###
+
+<p align="left">Tutaj przedstawie jak znaleźć folder z modami.</p>  
+<imp scr="Tutorial/Mods Folder/2.png" alt="Mods" width="865" height="515">
+<p align="left">Wchodzimy w naszą paczkę modów.</p>  
+<imp scr="Tutorial/Mods Folder/3.png" alt="Mods" width="865" height="515">
+<p align="left">Klikamy "Otwórz folder".</p>  
+<imp scr="Tutorial/Mods Folder/4.png" alt="Mods" width="865" height="515">
+<p align="left">Pojawia nam się folder z plikamy gry, jeśli nie ma w nim folderu "mods" możemy go utworzyć samemu. Póki co zostawiamy to, zaraz do tego wrócimy.</p>  
