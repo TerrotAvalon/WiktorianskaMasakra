@@ -65,7 +65,7 @@
 
 ###
 
-<h3 align="left">4. Folder Mods</h3>
+<h3 align="left">4.1 Folder Mods</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">4. Folder Mods dla Crystal Launchera</h3>
+<h3 align="left">4.2 Folder Mods dla Crystal Launchera</h3>
 
 ###
 
@@ -91,3 +91,26 @@
 <p align="left">Klikamy "Otwórz folder".</p>  
 <img src="Tutorial/Mods Folder/4.png" alt="Mods" width="865" height="513">
 <p align="left">Pojawia nam się folder z plikamy gry, jeśli nie ma w nim folderu "mods" możemy go utworzyć samemu. Póki co zostawiamy to, zaraz do tego wrócimy.</p>  
+
+###
+
+<h3 align="left">5. Fabric</h3>
+
+###
+
+<p align="left">Teraz przechodzimy do zainstalowania <a href="https://fabricmc.net/use/installer/">Fabric.</a></p>
+<p align="left">Gdy nam się pobierze, uruchamiamy aplikacje i pojawi nam się interfest taki jak w zdj poniżej.</p>  
+<img src="Tutorial/Fabric/1.png" alt="Fabric" width="493" height="260">
+<p align="left">Ustawiamy wersję gry na 1.21.1 oraz lokalizację instalacji na folder .minecraft którego znaleźliśmy w punkcie 4.</p>
+<p align="left">W crystal launcherze to wszystko co musimy zrobić, klikamy "graj" sprawdzając czy nam wszystko działa.</p>
+<img src="Tutorial/Fabric/2.png" alt="Paczki" width="1230" height="513">
+<p align="left">W wersji premium po zainstalowaniu znowu wchodzimy w launcher i wybieramy na dole po lewej stronie to co widoczne na screenie. I klikamy "graj" Jeżeli wszystko działa wyłączamy znowy gre.</p>
+<p align="left">(MOŻE SIE TAK WYDARZYĆ ŻE NIE MA PO LEWEJ STRONIE W ROZWIJANEJ LIŚCIE FABRIC LOADER WTEDY MUSIMY W INSTALACJI UTWORZYĆ NOWĄ INSTALACJE I Z ROZWIJANEJ LISTY WYBRAĆ "realease fabric-loader-cośtamcośtam" I ZANSTALOWAĆ)</p>
+<img src="Tutorial/Fabric/3.png" alt="Paczki" width="1230" height="513">
+
+
+
+
+###
+
+<h3 align="left">6.
