@@ -70,9 +70,11 @@
 ###
 
 <p align="left">Wchodzimy w folder "Appdata - Roaming".</p>  
-<img scr="Tutorial/Mods Folder/1.png" alt="Mods" width="815" height="513">
+<img src="Tutorial/Mods Folder/1.png" alt="Mods" width="415" height="213">
 <p align="left">Szybki dostęp do Appdata mamy wciskając kombinację przycisków "Windows + R", następnie wpisujemy "%appdata%" i klikamy enter.</p>  
+<img src="Tutorial/Mods Folder/5.png" alt="Mods" width="776" height="622">
 <p align="left">Kolejnym sposobem jest wyszukanie w lupce "%appdata" i również wpisujemy enter.</p>
+<img src="Tutorial/Mods Folder/6.png" alt="Mods" width="897" height="105">
 <p align="left">Jeszcze jednym sposobem jest włączenie jakiegokolwiek folderu, w ścieżce folderu zastępujemy go "%appdata%" i klikamy enter.</p>  
 <p align="left">i wchodzimy kolejno w ".minecraft" ---> "mods" (jeśli nie ma tworzymy folder o nazwie "mods") Na razie zostawiamy fen folder w spokoju</p>  
 
@@ -83,9 +85,9 @@
 ###
 
 <p align="left">Tutaj przedstawie jak znaleźć folder z modami.</p>  
-<imp scr="Tutorial/Mods Folder/2.png" alt="Mods" width="865" height="515">
+<img src="Tutorial/Mods Folder/2.png" alt="Mods" width="865" height="513">
 <p align="left">Wchodzimy w naszą paczkę modów.</p>  
-<imp scr="Tutorial/Mods Folder/3.png" alt="Mods" width="865" height="515">
+<img src="Tutorial/Mods Folder/3.png" alt="Mods" width="865" height="513">
 <p align="left">Klikamy "Otwórz folder".</p>  
-<imp scr="Tutorial/Mods Folder/4.png" alt="Mods" width="865" height="515">
+<img src="Tutorial/Mods Folder/4.png" alt="Mods" width="865" height="513">
 <p align="left">Pojawia nam się folder z plikamy gry, jeśli nie ma w nim folderu "mods" możemy go utworzyć samemu. Póki co zostawiamy to, zaraz do tego wrócimy.</p>  
